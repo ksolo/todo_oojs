@@ -1,0 +1,14 @@
+html {
+  background-color: #708299;
+}
+
+body {
+  width: 960px;
+  margin: auto;
+  background-color: white;
+  box-shadow: 4px 4px 8px;
+}
+
+body h1 {
+  padding: 10px;
+}

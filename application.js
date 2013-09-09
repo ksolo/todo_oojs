@@ -1,0 +1,4 @@
+$(function(){
+    Todo.init('#todo');
+});
+
